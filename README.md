@@ -1,1 +1,2 @@
-# Data-mining-course-project-codes
+This folder contains jupyter notebooks of the codes used to generate the results in my course project. However, since the results in this project are prelimary results for publication , I'm not allowed
+to include the data used in this project. I will share the data and data processing pipelines once the paper is published. If there is any confusion or clarification is required, I am always availble to explain by email or zoom meeting.
